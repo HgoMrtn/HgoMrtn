@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @HgoMrtn
+# 👋 Hi, I'm Hugo Martin
 Full Stack MERN (MongoDB, Express.js, React.js, Node.js) developer with a passion for crafting robust and scalable web applications.
 While it might look a bit sparse right now, fear not – this space is about to come to life! In the coming days, I'll be adding all of my projects, meticulously refactored.
 
